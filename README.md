@@ -1,6 +1,6 @@
 # Multi-Language-Website
 
-This is an example, or a template, for a multi-language website using Oli.
+This is an example, or a template, for a multi-language website using [Oli](https://github.com/matiboux/Oli).
 This has been created as an alternative solution, after the work-in-progress translation-related functions were removed from Oli Beta 2.0, in its development.
 
 This method uses the `Accept-Language` HTTP header to redirect the user to the proper version of the website.
